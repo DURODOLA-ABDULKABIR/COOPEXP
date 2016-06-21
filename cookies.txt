@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.target-agriculture.com	TRUE	/	FALSE	1999999999	csrftoken	UyvnIKVuNS95A6PiSaeTddxXys5Wmv4E
+
